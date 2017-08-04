@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/fitec/Documents/" . "liquid/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/fitec/"
+ "/home/fitec/Documents/sigpack-test/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "main.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/fitec/Documents/" (22916 28741 364974 31000) "sigpack-test/" "./" "anc_test/" "dsp-live/" "liquid.zip" "liquid/" "dsp/" "FastFIR-master/" "filter_gen.m~" "octave-workspace" "../" "mirror.c~" "bass/" "filter_gen.m")
+
+ ("/home/fitec/" (22916 28757 196177 802000) ".pip/" ".node_repl_history" "Videos/" ".gksu.lock" "./" "workspace_v6_1_3/" ".bashrc" ".swt/" ".thunderbird/" ".octave_hist" ".vimrc" ".dropbox/" ".mozilla/" ".ti/" ".Xauthority" ".lesshst" "ti/" ".emacs~" "Desktop/" "Public/" "Music/" ".bash_history" ".gitconfig" ".config/" ".emacs.before_ecb_2.50" ".ecb-tip-of-day.el" ".octave_packages" ".xsession-errors" "Fiat/" ".dropbox-dist/" ".local/" ".xsession-errors.old" ".gnome2_private/" "workspace/" ".bash_logout" ".dbus/" ".ghc/" "octave-workspace" "Templates/" "octave/" ".atom/" ".profile" ".npm/" ".nano/" ".gconf/" ".ICEauthority" ".wakatime.cfg" "../" ".audacity-data/" ".eclipse/" ".emacs.d/" ".gnuplot_history" ".cache/" "Dropbox/" ".emacs" ".nvm/" "Fiat (copy)/" ".wine/" ".gnome2/" ".installjammerinfo/" "bin/" ".wakatime.db" ".ssh/" ".sudo_as_admin_successful" ".pki/" ".subversion/" "Documents/" ".wakatime.log" "hpf.txt~" "Downloads/" ".gnupg/" "Pictures/" ".cmake/" ".dmrc" ".viminfo" ".xchm")
+
+ ("/home/fitec/Documents/liquid/" (22869 15811 863990 514000) "utils/" "./" "logs/" "main.cpp~" "samples/" "makefile" "nld/" "device/" "core/" "main.out" "math_scripts/" "../" "makefile~" "main.cpp" "signal/" "include/")
+
+ ("/home/fitec/Documents/iirliquid/" (22867 62735 433237 0) "utils/" "./" "logs/" "main.cpp~" "samples/" "makefile" "nld/" "device/" "core/" "main.out" "math_scripts/" "../" "makefile~" "main.cpp" "signal/" "include/")
+
+ ("/home/fitec/Documents/liquid/nld/" (22867 57830 138998 759000) "./" "nld.h" "fwr.cpp~" "fwr.cpp" "astr2.cpp~" ".#soft_clipping.cpp" "../" "astr2.cpp" "nld.h~" "soft_clipping.cpp~" "soft_clipping.cpp")
+
+ ("/home/fitec/Documents/liquid/utils/" (22866 39468 608235 959000) "./" "utils.h" "utils.h~" "utils.cpp" "../" "utils.cpp~")
+
+ ("/home/fitec/Documents/iir/" (22866 31425 738318 816000) "Butterworth.o" "utils/" "input.txt" "./" "Filter.o" "RootFinder.o" "Cascade.o" "main.cpp~" "samples/" "makefile" "nld/" "device/" "ChebyshevI.o" "ChebyshevII.o" "Design.o" "output.txt" "Param.o" "main.out" "Elliptic.o" "math_scripts/" "Bessel.o" "RBJ.o" "DSPFilters/" "State.o" "Custom.o" "Biquad.o" "../" "makefile~" "sine.o" "main.cpp" "utils.o" "signal/" "PoleFilter.o" "Legendre.o")
+
+ ("/home/fitec/Documents/sigpack-test/" (22865 10738 407099 357000) "astr2.o" "utils/" "fwr.o" "input.txt" "./" "coeffs.txt" "capture.o" "kiss_fft130_jfork1.0.0/" "fast.out" "hw_setup.o" "FastFIR/" "ambiophonics.cpp" ".git/" ".gitignore" "samples/" "ambiophonics" "output_fast.txt" "makefile" "nld/" "fast.cpp" "device/" "soft_clipping.o" "output.txt" "sine.txt" "core/" "main.out" "aquila.cpp" "math_scripts/" "input_fast.txt" "../" "sine.o" "main.cpp" "utils.o" "ambiophonics.out" "signal/" "file_reader.o" "playback.o")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
