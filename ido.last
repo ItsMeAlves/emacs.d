@@ -7,18 +7,24 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/gabriel/.emacs.d/"
  "/home/fitec/"
  "/home/fitec/Documents/sigpack-test/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "init.el"
  ".emacs"
  "main.cpp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/gabriel/.emacs.d/" (22923 50371 248918 951000) "./" "auto-save-list/" "../" "recentf" "ac-comphist.dat" "README.md" "init.el" ".git/" ".gitignore" "LICENSE" "elpa/" "ido.last")
+
+ ("/home/gabriel/" (22923 50371 176914 577000) "Dropbox/" ".emacs-backup/" "Documentos/" "./" "Downloads/" ".cache/" "Público/" "../" ".gnupg/" ".gconf/" ".profile" ".bash_history" "Música/" ".config/" ".viminfo" ".bashrc" ".wget-hsts" "Vídeos/" ".zsh_history" ".zshrc" ".zcompdump-kazumi-5.3.1" ".bin/" ".mozilla/" ".zsh-update" ".dropbox-dist/" ".ssh/" ".icons/" ".oh-my-zsh/" "Modelos/" ".var/" ".ICEauthority" "Área de trabalho/" ".gksu.lock" "Imagens/" ".emacs.d/" ".dropbox/" ".bash_logout" ".local/")
+
  ("/home/fitec/Documents/" (22916 28741 364974 31000) "sigpack-test/" "./" "anc_test/" "dsp-live/" "liquid.zip" "liquid/" "dsp/" "FastFIR-master/" "filter_gen.m~" "octave-workspace" "../" "mirror.c~" "bass/" "filter_gen.m")
 
  ("/home/fitec/" (22916 28757 196177 802000) ".pip/" ".node_repl_history" "Videos/" ".gksu.lock" "./" "workspace_v6_1_3/" ".bashrc" ".swt/" ".thunderbird/" ".octave_hist" ".vimrc" ".dropbox/" ".mozilla/" ".ti/" ".Xauthority" ".lesshst" "ti/" ".emacs~" "Desktop/" "Public/" "Music/" ".bash_history" ".gitconfig" ".config/" ".emacs.before_ecb_2.50" ".ecb-tip-of-day.el" ".octave_packages" ".xsession-errors" "Fiat/" ".dropbox-dist/" ".local/" ".xsession-errors.old" ".gnome2_private/" "workspace/" ".bash_logout" ".dbus/" ".ghc/" "octave-workspace" "Templates/" "octave/" ".atom/" ".profile" ".npm/" ".nano/" ".gconf/" ".ICEauthority" ".wakatime.cfg" "../" ".audacity-data/" ".eclipse/" ".emacs.d/" ".gnuplot_history" ".cache/" "Dropbox/" ".emacs" ".nvm/" "Fiat (copy)/" ".wine/" ".gnome2/" ".installjammerinfo/" "bin/" ".wakatime.db" ".ssh/" ".sudo_as_admin_successful" ".pki/" ".subversion/" "Documents/" ".wakatime.log" "hpf.txt~" "Downloads/" ".gnupg/" "Pictures/" ".cmake/" ".dmrc" ".viminfo" ".xchm")
